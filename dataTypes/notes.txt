@@ -1,0 +1,34 @@
+1) Type / Datatype
+2) Annotations
+3) Type Inference
+
+Datatype :
+1) Primitive Datatypes
+2) Non Primitive Datatypes
+
+Primitive Datatypes
+a) Number
+b) String
+c) Boolean
+d) Null
+e) Undefined
+f) any
+g) Union Type
+h) Void
+
+Non primitive Datatypes
+a) Array
+b) Class
+c) Function
+d) Interface
+e) Touple
+f) Objects
+
+1. Number type
+Represents both integers and floating point Datatypes
+
+2. String type
+   a) single quote('')
+   b) double quote("")
+   c) backtick(``)
+

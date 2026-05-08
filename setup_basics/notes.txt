@@ -1,0 +1,22 @@
+Pre-requisites :
+=======================
+
+1. node.js
+2. typescript compiler
+3. vscode editor
+
+node.js
+=======================
+node.js is a runtime environment where we can execute javascript
+npm -> node package manager
+    -> used to install any software that runs on node.js
+
+
+typescript compiler
+=======================
+A compiler which compile the typscript code and convert to javascript code
+which makes easy for js file to be executed using node.js
+
+npm install -g typescript ==> command to install typescript compiler
+
+typescript executor ==> to directly run the typescript code
