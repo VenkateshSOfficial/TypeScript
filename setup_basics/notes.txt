@@ -20,3 +20,4 @@ which makes easy for js file to be executed using node.js
 npm install -g typescript ==> command to install typescript compiler
 
 typescript executor ==> to directly run the typescript code
+npm install -g tsx

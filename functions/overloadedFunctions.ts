@@ -67,4 +67,4 @@ console.log(`SUM : ${add(2,3)}`);
 console.log(`Input : ${processInput(5000)}`)
 console.log(greet("C Joseph Vijay"));
 console.log(greet(52));
-console.log(greet(false));
+console.log(greet(true));
